@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.5">
+<file name="/home/intern/Jboss EAP rs demo/jboss-eap-quickstarts-7.2.0.GA/helloworld-rs/src/main/java/org/jboss/as/quickstarts/rshelloworld/HelloService.java">
+</file>
+<file name="/home/intern/Jboss EAP rs demo/jboss-eap-quickstarts-7.2.0.GA/helloworld-rs/src/main/java/org/jboss/as/quickstarts/rshelloworld/HelloWorld.java">
+</file>
+<file name="/home/intern/Jboss EAP rs demo/jboss-eap-quickstarts-7.2.0.GA/helloworld-rs/src/main/java/org/jboss/as/quickstarts/rshelloworld/JAXActivator.java">
+</file>
+</checkstyle>
